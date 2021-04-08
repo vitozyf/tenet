@@ -1,0 +1,7 @@
+.idea
+dist
+.DS_Store
+dist/
+tmp
+tmp/
+**/.DS_Store

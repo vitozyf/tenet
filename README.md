@@ -1,16 +1,22 @@
-# tenet
+<img src="https://i.loli.net/2021/03/26/s7PhFWtU3x8g2yD.jpg" width="300px" height="auto" alt="TENET logo">
 
-1. 先简单做个视频，大家大概了解怎么回事，我之后会补上详细教程的。
+TENET is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
 
-给个星星再走啊朋友。
+README: [English](https://github.com/Garbrandt/tenet/blob/main/README.md) | [中文](https://github.com/Garbrandt/tenet/blob/main/README-zh.md)
 
-这个系统是我写出来让大家赚钱补贴家用的。这个系统我一直在维护和升级，也希望感兴趣，想为咱们程序员做贡献的小伙伴加入这个项目，一起让这个系统更好。
+## ⭐️ Project assistance
 
-可以留言说说你想要的功能或者建议。我会努力改进让大家用的更爽的。
+If you want to say **thank you** or/and support active development of `TENET`:
 
-这个系统开发出来，不是为了盈利或者其他的，就是单纯想让各位快速接单子，赢取白富美，走向人生巅峰。
-也希望小伙伴也可以加入开发这个团队中来。
+- Add a [GitHub Star](https://github.com/Garbrandt/tenet) to the project.
+- Write interesting articles about project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or personal blog.
 
-[![使用教程，初步预览](https://img.youtube.com/vi/lzHh5au4D4E/0.jpg)](https://www.youtube.com/watch?v=lzHh5au4D4E)
+Together, we can make this project **better** every day! 😘
 
-[![使用教程，初步预览](https://m.ykimg.com/054F0601605B6DAF0000013CF5009060)](https://v.youku.com/v_show/id_XNTEyNjg5MjcwMA==.html)
+## Contribution
+
+Please make sure to read the [Contributing Guide](https://github.com/Garbrandt/tenet/blob/dev/.github/CONTRIBUTING.md) before making a pull request. If you have a Tenet project/component/tool, add it with a pull request to [this curated list](https://github.com/Garbrandt/awesome-tenet)!
+
+Thank you to all the people who already contributed to Tenet!
+
+<a href="https://github.com/Garbrandt/tenet/graphs/contributors"><img src="https://opencollective.com/vuejs/contributors.svg?width=890" /></a>
